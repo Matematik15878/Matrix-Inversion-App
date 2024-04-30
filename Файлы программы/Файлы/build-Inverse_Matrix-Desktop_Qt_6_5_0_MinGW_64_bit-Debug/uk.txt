@@ -1,0 +1,18 @@
+Matrix Inversion
+Choose method:
+Click here to randomly fill the matrix
+Choose borders:
+Number of steps taken:
+Click to save matrix
+Go!
+Click to load matrix from file
+Select size:
+Initial matrix A
+Inverse matrix B
+Remember!
+1) A * B = E.
+2) A * B == B * A.
+3) Only square matrices can be inverted.
+4) Elements of the main diagonal can = 0.
+5) The matrix is irreversible if the determinant = 0.
+Error! The program cannot inverse the matrix. Your matrix is uninversable or determinant cannot be found
